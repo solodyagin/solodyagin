@@ -1,3 +1,5 @@
-![Sergey Solodyagin's GitHub stats](https://github-readme-stats.vercel.app/api?username=solodyagin&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solodyagin&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solodyagin&show_icons=true&theme=tokyonight" alt="Sergey Solodyagin's GitHub stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solodyagin&layout=compact" alt="Top Langs"/>
+</p>
